@@ -1,8 +1,8 @@
 # pyssword
 
-A Simple Password Generator Made in Python
-My First Python code ever i just tested stuff
-dont expact much
+A Simple Password Generator Made in Python,
+this is my first Python script, its just for testing
+, dont expect much.
 
 # Featrues
 
