@@ -10,11 +10,11 @@ dont expact much
  
  <p> Version Checker [x] </p>
  <p> Password Length [x] </p>
- <p> Toggle Charset  [ ] </p>
+ <p> Toggle Charset  [o] </p>
  <P> Color + look    [x] </p>
  <p  Credit screen   [x] </p>
  
  <h3> Phase 2 </h3>
  
- <p> Final Cleanup   [ ] </p>
+ <p> Final Cleanup   [o] </p>
  
