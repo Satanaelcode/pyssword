@@ -4,14 +4,14 @@ A Simple Password Generator Made in Python,
 this is my first Python script, its just for testing
 , dont expect much.
 
- <img src="https://www.lastpass.com/-/media/9e3317fb86ef47a5a6fcc4fb00c7893f.svg?la=de&hash=4345EF54E401BC493C6FA226847F3C39">
+ <img src="https://cdn.discordapp.com/attachments/1002237423314534481/1066802269863026769/1example.gif">
 
 # Featrues
 
   <h3> Phase 1 </h3>
  
  <p> Version Checker [x] </p>
- <p> Password Length [x] </p>
+<p> Password Length [x] </p>
  <p> Toggle Charset  [o] </p>
  <P> Color + look    [x] </p>
  <p>  Credit screen  [x] </p>
