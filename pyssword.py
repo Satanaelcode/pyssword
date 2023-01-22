@@ -22,11 +22,11 @@ def generate_password(length):
 if lang == 'credits':
 
     # noinspection PyTypeChecker
-    print('\n CREDITS: \n Origin Code: Sheesha \n Optimizer: EuGaming \n Version: ' + version + '\n')
+    print('\n CREDITS: \n Origin Code: Sheesha \n Optimizer: EuGaming \n Version: ' + version + '\n Discord: https://discord.gg/cQAk2etuY3 \n')
 
 elif lang == 'check':
 
-    if version == '1.4.1':
+    if version == '1.4.2':
         print('\n \033[1;32;40m up to date!')
     else:
 
