@@ -33,4 +33,4 @@ elif lang == 'check':
         print('\n \033[31m Update available! \n you a on 1.4 but the newest version is ' + version)
 else:
     # Print finished Password if lang was a number
-    print('\033[0m Here is the Password: \n' + generate_password(int(lang)))
+    print('\033[0m Here is the Password: \n \n' + generate_password(int(lang)) + '\n')
