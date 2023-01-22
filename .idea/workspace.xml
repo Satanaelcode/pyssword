@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cf6c4a3-3578-4d03-8d03-bdc5c06cf9ee" name="Changes" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyssword.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyssword.py" afterDir="false" />
-    </list>
+    <list default="true" id="3cf6c4a3-3578-4d03-8d03-bdc5c06cf9ee" name="Changes" comment="Added Discord invite to Credits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674402855208</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Discord invite to Credits">
+      <created>1674404592406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674404592406</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +162,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Added Discord invite to Credits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Discord invite to Credits" />
   </component>
 </project>
