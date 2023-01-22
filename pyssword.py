@@ -4,6 +4,21 @@ import subprocess
 from subprocess import CompletedProcess
 from typing import Any
 
+# Printing The Logo
+
+logo = """"
+     \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m
+    \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m    ___  _  _                                _
+   \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[34m-\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m  | _ \| || | ___ ___ _ __ __  ___  _ _  __| |
+   \u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m  |  _/ \_. |(_-/(_-/ \ V  V // _ \| '_|/ _` |
+   \u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m  |_|   |__/ /__//__/  \_/\_/ \___/|_|  \__/_|
+   \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m
+    \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m
+     \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m
+"""
+
+print(logo)
+
 # Asking User for Password Length
 print('<Number> for length. \n credits for Credits. \n check for checking the version')
 lang = input()
