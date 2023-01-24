@@ -6,7 +6,7 @@ from typing import Any
 
 # Printing The Logo
 
-logo = """"
+print(""""
      \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m
     \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m    ___  _  _                                _
    \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[34m-\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m  | _ \| || | ___ ___ _ __ __  ___  _ _  __| |
@@ -15,9 +15,7 @@ logo = """"
    \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m
     \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[33m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m
      \u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m\u001b[36m#\u001b[0m
-"""
-
-print(logo)
+""")
 
 # Asking User for Password Length
 print(' <Number> for length. \n credits for Credits. \n check for checking the version \n')
