@@ -10,12 +10,12 @@ this is my first Python script, its just for testing
 
   <h3> Phase 1 </h3>
  
- <p> Version Checker [x] </p>
-<p> Password Length [x] </p>
- <p> Toggle Charset  [o] </p>
- <P> Color + look    [x] </p>
- <p>  Credit screen  [x] </p>
+ <p> Version Checker ✅</p>
+<p> Password Length ✅</p>
+ <p> Toggle Charset  ❎ </p>
+ <P> Color + look    ✅</p>
+ <p>  Credit screen  ✅</p>
  <h3> Phase 2 </h3>
  
- <p> Final Cleanup   [o] </p>
+ <p> Final Cleanup   ❎ </p>
  
