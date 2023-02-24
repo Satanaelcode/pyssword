@@ -19,5 +19,5 @@ this is my first Python script, its just for testing
 
 ## Phase 2
  
-* Final Cleanup   ❎
+* ❎ Final Cleanup
  
