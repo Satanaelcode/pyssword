@@ -13,9 +13,9 @@ this is my first Python script, its just for testing
  
 1. Version Checker ✅</p>
 2. Password Length ✅</p>
-2. Toggle Charset  ❎ </p>
+2. Toggle Charset  ✅</p>
 3. Color + look    ✅</p>
-4. Credit screen  ✅</p>
+4. Credit screen   ✅</p>
 
 ## Phase 2
  
