@@ -9,15 +9,15 @@ this is my first Python script, its just for testing
 
 # Featrues
 
-## Phase 1
+## Phase 1 ✅
  
-1. Version Checker ✅</p>
-2. Password Length ✅</p>
-2. Toggle Charset  ❎ </p>
-3. Color + look    ✅</p>
-4. Credit screen  ✅</p>
+* Version Checker ✅
+* Password Length ✅
+* Toggle Charset  ✅
+* Color + look    ✅
+* Credit screen   ✅
 
 ## Phase 2
- 
-1. Final Cleanup   ❎
+
+* Final Cleanup   ❎
  
