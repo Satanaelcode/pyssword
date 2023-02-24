@@ -11,11 +11,11 @@ this is my first Python script, its just for testing
 
 ## Phase 1
  
-1. Version Checker ✅</p>
-2. Password Length ✅</p>
-2. Toggle Charset  ✅</p>
-3. Color + look    ✅</p>
-4. Credit screen   ✅</p>
+1. Version Checker ✅
+2. Password Length ✅
+2. Toggle Charset  ✅
+3. Color + look    ✅
+4. Credit screen   ✅
 
 ## Phase 2
  
