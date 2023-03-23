@@ -35,7 +35,7 @@ def generate_password(length):
 if lang == 'credits':
 
     # noinspection PyTypeChecker
-    print('\n CREDITS: \n Origin Code: Sheesha \n Optimizer: EuGaming \n Version: ' + version.content + '\n Discord: https://discord.gg/cQAk2etuY3 \n')
+    print('\n CREDITS: \n Origin Code: Sheesha \n Optimizer: EuGaming \n Version: ' + version.content + '\n Discord: TERMINATED \n')
 
 elif lang == 'check':
 
